@@ -35,11 +35,11 @@ If you don't want to use the all-in-one Open Distro for Elasticsearch installati
 opendistroAnomalyDetectionKibana  1.13.0.0
 opendistroGanttChartKibana        1.13.0.0
 opendistroIndexManagementKibana   1.13.0.1
-opendistroNotebooksKibana         1.13.0.0
+opendistroNotebooksKibana         1.13.2.0
 opendistroQueryWorkbenchKibana    1.13.0.0
-opendistroReportsKibana           1.13.0.0
+opendistroReportsKibana           1.13.2.0
 opendistroSecurityKibana          1.13.0.1
-opendistroTraceAnalyticsKibana    1.13.0.0
+opendistroTraceAnalyticsKibana    1.13.2.0
 </pre>
     </td>
   </tr>

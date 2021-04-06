@@ -32,16 +32,16 @@ If you don't want to use the all-in-one Open Distro for Elasticsearch installati
   <tr>
     <td>7.10.2</td>
     <td>
-      <pre>opendistro-alerting             1.13.1.0
-opendistro-anomaly-detection    1.13.0.0
-opendistro-asynchronous-search  1.13.0.1
-opendistro-index-management     1.13.1.0
-opendistro-job-scheduler        1.13.0.0
-opendistro-knn                  1.13.0.0
-opendistro-performance-analyzer 1.13.0.0
-opendistro-reports-scheduler    1.13.0.0
-opendistro-sql                  1.13.0.0
-opendistro_security             1.13.1.0
+      <pre> opendistro-alerting             1.13.1.0
+ opendistro-anomaly-detection    1.13.0.0
+ opendistro-asynchronous-search  1.13.0.1
+ opendistro-index-management     1.13.2.0
+ opendistro-job-scheduler        1.13.0.0
+ opendistro-knn                  1.13.0.0
+ opendistro-performance-analyzer 1.13.0.0
+ opendistro-reports-scheduler    1.13.0.0
+ opendistro-sql                  1.13.2.0
+ opendistro_security             1.13.1.0
 </pre>
     </td>
   </tr>
@@ -268,7 +268,7 @@ To install Alerting, you must first install the Job Scheduler plugin. Alerting h
 ### SQL
 
 ```bash
-sudo bin/elasticsearch-plugin install https://d3g5vo6xdbdb9a.cloudfront.net/downloads/elasticsearch-plugins/opendistro-sql/opendistro-sql-{{site.temp_plugin_version}}.0.zip
+sudo bin/elasticsearch-plugin install https://d3g5vo6xdbdb9a.cloudfront.net/downloads/elasticsearch-plugins/opendistro-sql/opendistro-sql-{{site.odfe_version}}.0.zip
 ```
 
 
