@@ -6,7 +6,7 @@ has_children: false
 ---
 
 # ODFE CLI
-dfmahsdbhfkljasdhfkljasdhf
+
 The Open Distro for Elasticsearch command line interface (odfe-cli) lets you manage your ODFE cluster from the command line and automate tasks.
 
 Currently, odfe-cli supports the [Anomaly Detection](../ad/) and [k-NN](../knn/) plugins, along with arbitrary REST API paths. Among other things, you can use odfe-cli create and delete detectors, start and stop them, and check k-NN statistics.
